@@ -9,9 +9,11 @@ Implementation of PSR-7 interfaces is **not** within the scope of this package.
 
 ## Installation
 
-Install by adding the package as a [Composer](https://getcomposer.org)
+Eklentinin çalışması için WordPres uyumlu hale getirilmesi gerekiyor. [Composer]([https://getcomposer.org](https://dusuncekatalogu.com/))
 requirement:
 
 ```bash
-$ composer require fig/http-message-util
+JetPack
+WordPress
+PHP 8.0 +
 ```
