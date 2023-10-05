@@ -5,7 +5,7 @@ operations of [PSR-7](https://www.php-fig.org/psr/psr-7/); the primary purpose i
 to provide constants for referring to request methods, response status codes and
 messages, and potentially common headers.
 
-Implementation of PSR-7 interfaces is **not** within the scope of this package.
+Implementation of PSR-7 interfaces is **not** within the scope of this package. https://dusuncekatalogu.com
 
 ## Installation
 
