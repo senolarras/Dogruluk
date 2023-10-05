@@ -1,5 +1,17 @@
-# Dogruluk
-Doğruluk Mu Cesaretlik Mi Eklentisi
+# PSR Http Message Util
 
-Eklenti Ana Sayfada otomatik olarak sorular görüntüler. https://dusuncekatalogu.com/
-Çalışması için Jetpack eklentisi gereklidir.
+This repository holds utility classes and constants to facilitate common
+operations of [PSR-7](https://www.php-fig.org/psr/psr-7/); the primary purpose is
+to provide constants for referring to request methods, response status codes and
+messages, and potentially common headers.
+
+Implementation of PSR-7 interfaces is **not** within the scope of this package.
+
+## Installation
+
+Install by adding the package as a [Composer](https://getcomposer.org)
+requirement:
+
+```bash
+$ composer require fig/http-message-util
+```
